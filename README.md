@@ -1,6 +1,4 @@
-<<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
-
-### Hi, i'm Thaissa
+### Olá, eu sou a Thaissa.
 => Texto em Português: 
 Sou uma estudante de Gestão da TI na faculdade Unicesumar e curso de Desenvolvimento front end pela Udemy. A minha linguagem é JavaScript, mas já usei linguagem C, ela foi o meu primeiro contato com uma linguagem de programação. 
 
@@ -13,6 +11,7 @@ Almejo poder mostrar meu conhecimento adquiridos pela TI, assim como mostrar os 
 “O seu sucesso só depende de você mesmo.”
 
 => English Text: 
+### Hi, I'm Thaissa.
 I'm an IT Management student at Unicesumar college and a front end development course at Udemy. My language is JavaScript, but I have already used C language, it was my first contact with a programming language. 
 
 I am currently studying English at Yes!, where I was already considered one of the students of the month for my excellent development in the English language. 
