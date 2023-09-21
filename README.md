@@ -1,21 +1,21 @@
-## Hello! I'm a brazilian girl with a big love of the world of IT.
+<h1>Hello! I'm a brazilian girl with a big love of the world of IT.</h1>
 <hr/>
 
-### Frontend Skills:
+<h2>Frontend Skills</h2>
 <div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,redux,styledcomponents,tailwindcss" />
   </a>
 </div>
 
-### Backend Skills:
+<h2>Backend Skills:</h2>
 <div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs" />
   </a>
 </div>
 
-### Others: 
+<h2>Others:</h2>
 <div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,netlify,git,github,vercel,vite" />
@@ -38,8 +38,9 @@
 <br>
 </div>
  
+<hr/>
 
- ### Current contacts:
+<h1>Current contacts:</h1>
 <div> 
   <a href = "mailto:thaissa.dos2003@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoftoutlook&logoColor=blue" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thaissa-carvalho-dos-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
