@@ -4,21 +4,21 @@
 <h2>Frontend Skills</h2>
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,redux,styledcomponents,tailwindcss" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,redux,styledcomponents,tailwind" />
   </a>
 </div>
 
 <h2>Backend Skills:</h2>
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgres,py,sequelize,ts" />
   </a>
 </div>
 
 <h2>Others:</h2>
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,netlify,git,github,vercel,vite" />
+    <img src="https://skillicons.dev/icons?i=figma,netlify,git,github,vercel,vite,gcp,nginx" />
   </a>
 </div>
 
@@ -42,6 +42,6 @@
 
 <h1>Current contacts:</h1>
 <div> 
-  <a href = "mailto:thaissa.dos2003@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoftoutlook&logoColor=blue" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thaissa-carvalho-dos-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:thaissa-carvalho@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoftoutlook&logoColor=blue" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thaissacarvalho-ti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
