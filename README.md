@@ -1,47 +1,26 @@
-<h1>Hello! I'm a brazilian girl with a big love of the world of IT.</h1>
-<hr/>
+# Olá! Eu sou a Thaissa 👋🏿
 
-<h2>Frontend Skills</h2>
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,redux,styledcomponents,tailwind" />
-  </a>
-</div>
+## Sobre mim
+Sou Desenvolvedora Full Stack especializada em React e Node.js. Tenho experiência como voluntária trabalhando com back-end e UX/UI Design, além de atuar como freelancer focada no desenvolvimento back-end.
 
-<h2>Backend Skills:</h2>
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgres,py,sequelize,ts" />
-  </a>
-</div>
+Além de programar, também gosto de compartilhar conhecimento. Participo de eventos onlines, escrevo artigos técnicos e contribuo para projetos open source.
 
-<h2>Others:</h2>
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,netlify,git,github,vercel,vite,gcp,nginx" />
-  </a>
-</div>
+Fique à vontade para explorar meus projetos e entrar em contato. Estou sempre aberta a novas oportunidades e colaborações!
 
-<hr/>
+## Redes Sociais
+- [LinkedIn](https://www.linkedin.com/in/thaissacarvalho-ti/)
+- [Twitter](https://twitter.com/thaissadev)
 
-<div align="center">
-  <a href="https://github.com/thaissacarvalho">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=thaissacarvalho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaissacarvalho&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+## Meu Site
+[Portfolio](https://thaissacarvalho.vercel.app/)
 
-<hr/>
+## Tech Stack
+- **Frontend:** HTML, CSS, SASS, JavaScript, React, Tailwind CSS, Bootstrap 5 e Styled Components 
+- **Backend:** Typescript, Node.js e Express.
+- **Database:** MySQL/PostgreSQL/MariaDB com Sequelize e MongoDB com Mongoose.
+- **DevOps:** GCP e PM2.
+- **Outros:** Git e GitHub.
 
-<div align="center">
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{thaissacarvalho}/count.svg" /></p> 
-<br>
-</div>
- 
-<hr/>
-
-<h1>Current contacts:</h1>
-<div> 
-  <a href = "mailto:thaissa-carvalho@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoftoutlook&logoColor=blue" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thaissacarvalho-ti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaissacarvalho&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thaissacarvalho&show_icons=true&count_private=true&hide=issues)
