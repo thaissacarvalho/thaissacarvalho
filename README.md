@@ -15,8 +15,6 @@ Feel free to explore my projects and get in touch. I'm always open to new opport
 
 ## Social Media
 - [LinkedIn](https://www.linkedin.com/in/thaissacarvalho-ti/)
-- [Twitter](https://twitter.com/thaissadev)
-- [Bluesky](https://bsky.app/profile/bythaissa.com)
 
 ## My Website
 [Portfolio](https://www.bythaissa.com/)
