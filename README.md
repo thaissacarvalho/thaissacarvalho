@@ -1,17 +1,19 @@
 # Hello! I'm Thaissa 👋🏿
 
 ## About Me
-I'm a **Full Stack Developer** passionate about technology, specializing in **React** and **Node.js**. I have experience in **front-end**, **back-end**, and **UX/UI Design**, and I also work as a freelancer, always looking to improve my skills.
+I'm a **Back-end Developer** passionate about solving problems through technology, with a strong focus on **Node.js**, **TypeScript**, and the **AWS ecosystem**. I build scalable, secure, and efficient applications, always aiming to follow best practices and clean architecture.
 
-I believe in the power of community and love to share knowledge. Participating in online events, writing technical articles, and contributing to open source projects are some of the ways I help and learn.
+Currently, I work as a freelancer and participate in volunteer projects to keep improving my technical and collaborative skills. I also love sharing knowledge and learning from the tech community.
 
 Feel free to explore my projects and get in touch. I'm always open to new opportunities and collaborations!
 
 ## What I Do
-- Develop web applications with a focus on performance and usability.
-- Create robust and scalable APIs.
-- Contribute to open source projects.
-- Share knowledge through talks and articles.
+- Develop robust and scalable APIs using Node.js and TypeScript.
+- Deploy applications in cloud environments using the AWS ecosystem (Lambda, S3, EC2, RDS, etc.).
+- Write automated tests with Jest to ensure software quality.
+- Containerize applications using Docker.
+- Build and maintain serverless applications.
+- Collaborate in cross-functional teams and contribute to open-source.
 
 ## Social Media
 - [LinkedIn](https://www.linkedin.com/in/thaissacarvalho-ti/)
@@ -24,23 +26,29 @@ Feel free to explore my projects and get in touch. I'm always open to new opport
 ### Programming Languages
 - JavaScript (JS) and TypeScript (TS)
 
-### Frontend
+### Backend
+- Node.js (Express, NestJS)
+- Jest (Testing)
+- Serverless Framework
+- AWS (Lambda, S3, EC2, RDS, CloudWatch, etc.)
+- Docker
+
+### Frontend (Basic Knowledge)
 - HTML, CSS, SASS
 - React
 - Tailwind CSS, Bootstrap 5, Styled Components 
 
-### Backend
-- Node.js with Express and/or NestJS
-
 ### Databases
-- MySQL, PostgreSQL, MariaDB with Prisma
+- PostgreSQL, MySQL, MariaDB with Prisma
 - MongoDB with Mongoose
 
 ### DevOps
-- Google Cloud Platform (GCP), NGINX, PM2, Docker
+- Docker, NGINX, PM2
+- AWS, Google Cloud Platform (GCP)
+- GitHub Actions, Azure DevOps, GitLab CI/CD
 
 ### Others
-- Git, GitHub, Azure DevOps, GitLab (version control and CI/CD tools)
+- Git, GitHub (version control and collaboration)
 
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaissacarvalho&layout=compact)
@@ -49,4 +57,4 @@ Feel free to explore my projects and get in touch. I'm always open to new opport
 ## Let's Connect!
 If you're interested in collaborating, learning, or simply exchanging ideas about technology, feel free to reach out. I'm always ready for new adventures in the programming world!
 
-- Contato (thaissa-carvalho@outlook.com) 
+- 📫 Contact: thaissa-carvalho@outlook.com
