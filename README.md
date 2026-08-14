@@ -73,13 +73,6 @@ I also enjoy sharing knowledge and documenting my learning journey through perso
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thaissacarvalho&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thaissacarvalho&show_icons=true&count_private=true&hide=issues)
-
----
-
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/thaissacarvalhodev/)
