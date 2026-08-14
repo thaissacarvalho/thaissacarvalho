@@ -1,60 +1,87 @@
-# Hello! I'm Thaissa 👋🏿
+# Hi, I'm Thaissa 👋🏿
 
-## About Me
-I'm a **Back-end Developer** passionate about solving problems through technology, with a strong focus on **Node.js**, **TypeScript**, and the **AWS ecosystem**. I build scalable, secure, and efficient applications, always aiming to follow best practices and clean architecture.
+### Backend Developer | Node.js • TypeScript
 
-Currently, I work as a freelancer and participate in volunteer projects to keep improving my technical and collaborative skills. I also love sharing knowledge and learning from the tech community.
+I build and evolve backend applications with a focus on **reliability, maintainability and software quality**.
 
-Feel free to explore my projects and get in touch. I'm always open to new opportunities and collaborations!
+My professional experience is focused on **Node.js, TypeScript, REST APIs and financial systems**, working with services from the PIX ecosystem in a regulated environment.
 
-## What I Do
-- Develop robust and scalable APIs using Node.js and TypeScript.
-- Deploy applications in cloud environments using the AWS ecosystem (Lambda, S3, EC2, RDS, etc.).
-- Write automated tests with Jest to ensure software quality.
-- Containerize applications using Docker.
-- Build and maintain serverless applications.
-- Collaborate in cross-functional teams and contribute to open-source.
+Beyond feature development, I contribute to the continuous improvement of existing systems through **automated testing, technical documentation, code quality and technical improvements**.
 
-## Social Media
-- [LinkedIn](https://www.linkedin.com/in/thaissacarvalho-ti/)
+---
 
-## My Website
-[Portfolio](https://www.bythaissa.com/)
+## 🎯 Current Focus
 
-## Technologies I Use
+- Backend Development
+- REST APIs & Microservices
+- Automated Testing
+- Software Quality
+- Technical Documentation
+- Cloud Computing
 
-### Programming Languages
-- JavaScript (JS) and TypeScript (TS)
+---
+
+## 🛠️ Tech Stack
 
 ### Backend
-- Node.js (Express, NestJS)
-- Jest (Testing)
-- Serverless Framework
-- AWS (Lambda, S3, EC2, RDS, CloudWatch, etc.)
+
+- Node.js
+- TypeScript
+- NestJS
+- Express
+
+### Database
+
+- PostgreSQL
+- Sequelize (ORM)
+
+### Cloud & DevOps
+
+- AWS
 - Docker
+- GitHub Actions
 
-### Frontend (Basic Knowledge)
-- HTML, CSS, SASS
-- React
-- Tailwind CSS, Bootstrap 5, Styled Components 
+### Testing
 
-### Databases
-- PostgreSQL, MySQL, MariaDB with Prisma
-- MongoDB with Mongoose
+- Jest
 
-### DevOps
-- Docker, NGINX, PM2
-- AWS, Google Cloud Platform (GCP)
-- GitHub Actions, Azure DevOps, GitLab CI/CD
+### Tools
 
-### Others
-- Git, GitHub (version control and collaboration)
+- Git
+- Postman
+- Swagger / OpenAPI
 
-## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaissacarvalho&layout=compact)
+---
+
+## 📚 Development & Learning
+
+I use personal projects and technical documentation as part of my continuous learning process.
+
+My **Development Notebook** brings together notes, studies and practical explorations related to Backend Development and Software Engineering.
+
+I believe in learning through practice:
+
+> **Learn → Build → Review → Refactor → Document**
+
+---
+
+## 🌎 Open Source & Community
+
+I'm interested in contributing to **open-source projects** related to Node.js, TypeScript and Backend Development.
+
+I also enjoy sharing knowledge and documenting my learning journey through personal projects and technical content.
+
+---
+
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thaissacarvalho&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thaissacarvalho&show_icons=true&count_private=true&hide=issues)
 
-## Let's Connect!
-If you're interested in collaborating, learning, or simply exchanging ideas about technology, feel free to reach out. I'm always ready for new adventures in the programming world!
+---
 
-- 📫 Contact: thaissa-carvalho@outlook.com
+## 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/thaissacarvalhodev/)
+- 🌐 [Portfolio]() - SOON
+- 📫 **thaissa-carvalho@outlook.com**
