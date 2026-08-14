@@ -77,4 +77,4 @@ I also enjoy sharing knowledge and documenting my learning journey through perso
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/thaissacarvalhodev/)
 - 🌐 [Portfolio]() - SOON
-- 📫 **thaissa-carvalho@outlook.com**
+- 📫 **thaissa-dos2003@outlook.com**
