@@ -37,6 +37,12 @@ My technical interests include:
 
 I use personal projects, study notes, and technical writing to deepen my understanding of software engineering and share what I learn.
 
+## 🌎 Community
+
+I'm an **Ambassador for PapoDeDevRJ**, a tech community where I share knowledge and help beginners explore career paths and prepare for internship and junior developer opportunities.
+
+📸 Follow our community on Instagram: [@PapoDeDevRJ](https://www.instagram.com/papodedevrjj/)
+
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/thaissacarvalhodev/)
