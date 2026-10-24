@@ -1,80 +1,43 @@
 # Hi, I'm Thaissa 👋🏿
 
-### Backend Developer | Node.js • TypeScript
+### Backend Developer | Node.js · TypeScript · NestJS · PostgreSQL · AWS
 
-I build and evolve backend applications with a focus on **reliability, maintainability and software quality**.
+I'm a developer focused on **backend development, REST APIs, and microservices**, with an interest in building reliable, maintainable, and well-tested applications.
 
-My professional experience is focused on **Node.js, TypeScript, REST APIs and financial systems**, working with services from the PIX ecosystem in a regulated environment.
+My main stack is **Node.js and TypeScript**, supported by relational databases, automated testing, and AWS services. I also work with React and Next.js for frontend development.
 
-Beyond feature development, I contribute to the continuous improvement of existing systems through **automated testing, technical documentation, code quality and technical improvements**.
+## 🎓 Education
 
----
+- **Software Engineering — 2026–2030**  
+  Centro Universitário La Salle · In progress · Expected graduation: December 2030
+- **Information Technology Management — 2023**  
+  Centro Universitário de Maringá · Graduated August 2023
 
-## 🎯 Current Focus
+## Technical Skills
 
-- Backend Development
-- REST APIs & Microservices
-- Automated Testing
-- Software Quality
-- Technical Documentation
-- Cloud Computing
+| Area | Technologies |
+| --- | --- |
+| Backend | Node.js, TypeScript, NestJS, Express, REST APIs, Microservices |
+| Databases & ORMs | PostgreSQL, Sequelize, Prisma, MongoDB, MySQL |
+| Testing | Jest, Supertest, Axios |
+| Cloud | AWS Lambda, API Gateway, DynamoDB, S3, IAM, Secrets Manager |
+| Delivery & Infrastructure | Docker, GitHub Actions, Azure DevOps, NGINX, PM2 |
+| Frontend | React, Next.js, Tailwind CSS |
+| Development Tools | Git, Postman, Swagger / OpenAPI |
 
----
+## 📚 Engineering & Learning
 
-## 🛠️ Tech Stack
+My technical interests include:
 
-### Backend
+- API design, business rules, and service integration
+- Unit, integration, and end-to-end testing
+- Code quality, refactoring, and dependency maintenance
+- Technical documentation and software maintainability
+- Cloud computing and observability
 
-- Node.js
-- TypeScript
-- NestJS
-- Express
+I use personal projects, study notes, and technical writing to deepen my understanding of software engineering and share what I learn.
 
-### Database
+## Let's Connect
 
-- PostgreSQL
-- Sequelize (ORM)
-
-### Cloud & DevOps
-
-- AWS
-- Docker
-- GitHub Actions
-
-### Testing
-
-- Jest
-
-### Tools
-
-- Git
-- Postman
-- Swagger / OpenAPI
-
----
-
-## 📚 Development & Learning
-
-I use personal projects and technical documentation as part of my continuous learning process.
-
-My **Development Notebook** brings together notes, studies and practical explorations related to Backend Development and Software Engineering.
-
-I believe in learning through practice:
-
-> **Learn → Build → Review → Refactor → Document**
-
----
-
-## 🌎 Open Source & Community
-
-I'm interested in contributing to **open-source projects** related to Node.js, TypeScript and Backend Development.
-
-I also enjoy sharing knowledge and documenting my learning journey through personal projects and technical content.
-
----
-
-## 🤝 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/thaissacarvalhodev/)
-- 🌐 [Portfolio]() - SOON
-- 📫 **thaissa-dos2003@outlook.com**
+- [LinkedIn](https://www.linkedin.com/in/thaissacarvalhodev/)
+- [Email](mailto:thaissa.dos2003@outlook.com)
