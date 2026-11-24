@@ -8,7 +8,7 @@ My main stack is **Node.js and TypeScript**, supported by relational databases, 
 
 ## 🎓 Education
 
-- **Software Engineering — 2026–2030**  
+- **Software Engineering — 2026**  
   Centro Universitário La Salle · In progress · Expected graduation: December 2030
 - **Information Technology Management — 2023**  
   Centro Universitário de Maringá · Graduated August 2023
@@ -41,7 +41,7 @@ I use personal projects, study notes, and technical writing to deepen my underst
 
 I'm an **Ambassador for PapoDeDevRJ**, a tech community where I share knowledge and help beginners explore career paths and prepare for internship and junior developer opportunities.
 
-📸 Follow our community on Instagram: [@PapoDeDevRJ](https://www.instagram.com/papodedevrjj/)
+📸 Follow our community on Instagram: [PapoDeDevRJ](https://www.instagram.com/papodedevrjj/)
 
 ## Let's Connect
 
